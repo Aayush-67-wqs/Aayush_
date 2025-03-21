@@ -291,7 +291,7 @@
 </head>
 <body>
 
-    <header> <br></br>
+    <header> <br>
         <h1>Aayush Portfolio</h1>
     </header>
 
